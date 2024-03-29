@@ -1,4 +1,5 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/jnQYWZ0T4mkhCmkzcn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sad-baby-crying-jnQYWZ0T4mkhCmkzcn">via GIPHY</a></p>
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzUzaGpqZXcxMmd0aXBwZG1jZXRwcjlkdWljc2ZpNnE0YXZraWFqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GGMNu4IgcPXzAzOYEB/giphy.gif)
 ### HELLO WORD
 | parsaCr7M Dev 's GitHub stats  |
 | ------------- |
