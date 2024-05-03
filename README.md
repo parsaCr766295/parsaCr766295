@@ -1,4 +1,3 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzUzaGpqZXcxMmd0aXBwZG1jZXRwcjlkdWljc2ZpNnE0YXZraWFqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GGMNu4IgcPXzAzOYEB/giphy.gif)
 ![codedev1h](https://github.com/parsaCr766295/parsaCr766295/assets/18326939/2f1cbd6c-ba78-47c9-a2ee-1c63dada9e58)
 ### HELLO WORD
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsacr766295&label=Profile%20views&color=0e75b6&style=flat" alt="parsacr766295" /> </p>
