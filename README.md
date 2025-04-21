@@ -1,4 +1,4 @@
-![codedev1h](https://github.com/parsaCr766295/parsaCr766295/assets/18326939/2f1cbd6c-ba78-47c9-a2ee-1c63dada9e58)
+![codedev1h](https://github.com/user-attachments/assets/b92c4a52-ba96-4d0a-926c-f83a4c3b2133)
 ### HELLO WORD
   <img src="https://raw.githubusercontent.com/parsa222/parsa222/output/snake.svg" alt="snake animation" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsacr766295&label=Profile%20views&color=0e75b6&style=flat" alt="parsacr766295" /> </p>
@@ -11,4 +11,3 @@
 | ------------- |
 |![ parsaCr7M Dev 's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsaCr766295&theme=dark&show_icons=true)
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsaCr766295&langs_count=8)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsaCr766295&layout=compact)
-
